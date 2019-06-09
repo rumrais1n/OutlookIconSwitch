@@ -7,5 +7,5 @@ function importScript(URL) {
 function switchImage() {
 	importScript("https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js");
 
-	$('ms-Persona-image').children('img').attr('src', 'https://pbs.twimg.com/profile_images/1100054151692574720/Rt0-3Wmx_400x400.png');
+	$('ms-Image.ms-Persona-image.image-112').children('img').attr('src', 'https://pbs.twimg.com/profile_images/877432098671403008/MGlKfUNp_400x400.png');
 }
